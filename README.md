@@ -1,7 +1,7 @@
 # 🧠 MyAgent — Building and Merging LoRA Models from Scratch
 
 **Author:** [Clark Kitchen](https://www.linkedin.com/in/clarkkitchen)  
-**Repository:** [github.com/clarkkitchen22/my_agent](https://github.com/clarkkitchen22/my_agent)  
+**Repository:** https://github.com/goldbar123467/RAG-LLAMA-3.2-Model-/
 **Hugging Face Model:** [mistral-7b-lora-merged](https://huggingface.co/clarkkitchen22/mistral-7b-lora-merged)
 
 ---
